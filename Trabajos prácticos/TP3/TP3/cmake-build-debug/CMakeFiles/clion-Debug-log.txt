@@ -1,0 +1,5 @@
+/snap/clion/241/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/241/bin/ninja/linux/x64/ninja -G Ninja -S /home/gonzalo/Escritorio/Facultad/Metnum/mn/TP3 -B /home/gonzalo/Escritorio/Facultad/Metnum/mn/TP3/cmake-build-debug
+Compilando:main.cppJACOBI.cppDLU.cppGAUSS-SEIDEL.cpp
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/gonzalo/Escritorio/Facultad/Metnum/mn/TP3/cmake-build-debug

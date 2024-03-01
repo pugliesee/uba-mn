@@ -1,0 +1,12 @@
+El TP no tiene ningún detalle especial en cuanto a compilación.
+Es importante utilizar C++ al momento de querer ejecutar la implementación de los métodos iterativos.
+En "main.cpp" se encuentran nuestros tests de prueba y algunos comentarios respecto a ellos.
+También, al comienzo del main, se encuentra la función "corrrerExperimentacion()", la cual se encarga de ejecutar todos nuestros tests intensivos que creamos a la hora de generar los gráficos del TP.
+Recomendamos primero correr el main así como está, y luego volverlo a correr pero comentando la línea que llama a "correrExperimentacion()" para que se puedan generar correctamente los archivos de texto para el análisis con matrices particulares
+Para ejecutar el "main.cpp" en CLion creamos un target de tipo C/C++ File con el archivo main como archivo fuente y "-pthread -std=gnu++17 -O3" en el campo Compiler Options.
+
+En "GAUSS-SEIDEL.cpp" y "JACOBI.cpp" se encuentran las implementaciones de dichos métodos, mientras que en "Auxiliares.cpp" hay algunas funciones que ayudaron con su construcción.
+
+Por el lado de Python, ejecutando tan solo "main.py" se pueden crear los gráficos hechos para el TP. 
+Es importante destacar que para poder crear estos gráficos, es necesario antes correr la prueba intensiva llamada en "main.cpp".
+Debido a la gran cantidad de gráficos totales, recomendamos hacer el llamado a cada función por separado, es decir, ejecutar el archivo "main.py" comentando todos los llamados a funciones, salvo el de la función que genere los gráficos que se deseen visualizar en ese momento. Esto permite que se puedan visualizar los gráficos en su totalidad.

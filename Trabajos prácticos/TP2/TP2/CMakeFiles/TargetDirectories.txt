@@ -1,0 +1,4 @@
+/home/gonzalo/Escritorio/Facultad/Metnum/mn/TP2/CMakeFiles/run.dir
+/home/gonzalo/Escritorio/Facultad/Metnum/mn/TP2/CMakeFiles/CorrerValgrind.dir
+/home/gonzalo/Escritorio/Facultad/Metnum/mn/TP2/CMakeFiles/edit_cache.dir
+/home/gonzalo/Escritorio/Facultad/Metnum/mn/TP2/CMakeFiles/rebuild_cache.dir

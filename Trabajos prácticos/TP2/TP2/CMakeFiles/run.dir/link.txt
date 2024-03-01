@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -std=gnu++17 -O3 CMakeFiles/run.dir/main.cpp.o -o run 

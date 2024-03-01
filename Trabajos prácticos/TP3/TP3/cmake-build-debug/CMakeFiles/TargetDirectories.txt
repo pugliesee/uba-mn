@@ -1,0 +1,4 @@
+/home/gonzalo/Escritorio/Facultad/Metnum/mn/TP3/cmake-build-debug/CMakeFiles/run.dir
+/home/gonzalo/Escritorio/Facultad/Metnum/mn/TP3/cmake-build-debug/CMakeFiles/CorrerValgrind.dir
+/home/gonzalo/Escritorio/Facultad/Metnum/mn/TP3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gonzalo/Escritorio/Facultad/Metnum/mn/TP3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
